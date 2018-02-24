@@ -1,3 +1,3 @@
 # Maths-for-ML
-HSE. Maths for ML. Homeworks
-[a relative link](HW_1.ipynb)
+HSE. Maths for ML. Homeworks  
+[Теория вероятностей](HW1.ipynb)
